@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+	<path fill="currentColor" fill-rule="evenodd" d="
+		M 256,106 
+		A 150,150 0 1,1 256,406 
+		A 150,150 0 1,1 256,106 
+		M 220,220 
+		A 15,15 0 1,1 220,250 
+		A 15,15 0 1,1 220,220 
+		M 290,190 
+		A 10,10 0 1,1 290,210 
+		A 10,10 0 1,1 290,190 
+		M 260,300 
+		A 20,20 0 1,1 260,340 
+		A 20,20 0 1,1 260,300 
+		M 320,250 
+		A 12,12 0 1,1 320,274 
+		A 12,12 0 1,1 320,250 
+		M 180,280 
+		A 8,8 0 1,1 180,296 
+		A 8,8 0 1,1 180,280 
+	"/>
+</svg>

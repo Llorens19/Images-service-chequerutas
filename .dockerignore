@@ -1,0 +1,25 @@
+# Ignorar node_modules
+node_modules
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de bloqueo de paquetes
+package-lock.json
+
+# Ignorar archivos de configuración de Git
+.git
+.gitignore
+
+# Ignorar archivos de logs
+logs
+*.log
+npm-debug.log*
+
+# Ignorar archivos de Docker
+Dockerfile
+docker-compose.yml
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
